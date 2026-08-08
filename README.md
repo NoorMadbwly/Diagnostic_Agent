@@ -1,4 +1,5 @@
-# Diagnostic Agent (Claude API)
+# Diagnostic Agent 
+
 
 A tool-calling clinical decision support agent that turns structured OPG detection output (FDI-numbered findings from the YOLOv11x pipeline) into a validated diagnosis and treatment plan.
 
